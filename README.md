@@ -66,5 +66,5 @@ Below is a preview of some images used in this project.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MEDELBOU3/SM4music.git
+   git clone https://github.com/SM4studio/SM4music.git
    cd SM4music
